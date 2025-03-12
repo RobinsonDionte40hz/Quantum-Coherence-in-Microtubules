@@ -22,7 +22,7 @@ I’m a self-taught coder diving into quantum effects in neural systems. This re
 
 ## Notes
 - Replicates 40 Hz microtubule coherence—test it out!  
-- This is a pre-release—full quantum consciousness ideas are still cooking. Hit me up on X [@yourhandle] for collab or questions.  
+- This is a pre-release—full quantum consciousness ideas are still cooking. Hit me up on X [@Rob343713Rob] for collab or questions.  
 - For research only—don’t try anything wild without ethical review.
 
 ## License
