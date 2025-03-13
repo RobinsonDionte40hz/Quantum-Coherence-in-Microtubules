@@ -1,7 +1,7 @@
 # Quantum-Coherence-in-Microtubules
 
 # Microtubule Quantum Coherence Simulation
-I’m a self-taught coder diving into quantum effects in neural systems. This repo supports my pre-release paper "Microtubule Quantum Coherence at 40 Hz: Computational Evidence" (preprint link TBD—bioRxiv’s down, might try arXiv/OSF soon).
+I’m a self-taught coder diving into quantum effects in neural systems. This repo supports my pre-release paper "Microtubule Quantum Coherence at 40 Hz: Computational Evidence" (preprint link TBD—bioRxiv’s, might try arXiv/OSF soon).
 
 ## Overview
 - **Finding**: My simulations (GROMACS + QuTiP) show microtubules in brain cells can hold quantum coherence for 408 femtoseconds (fs) at 40 Hz, thanks to ordered water shielding (0.28 nm spacing, shielding factor 3.57 nm⁻¹).  
